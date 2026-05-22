@@ -24,8 +24,6 @@
 
 A leading retail company needed to better understand its customers' shopping behaviour to improve sales, customer satisfaction, and long-term loyalty. This project delivers a complete analytics pipeline — from raw data to executive-ready insights.
 
-**Association:** University College Cork · MSc Business Analytics
-
 ---
 
 ## Business Problem
